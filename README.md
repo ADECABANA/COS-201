@@ -1,55 +1,5 @@
 # COS-201
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>COS 201 Practical Assignments (Weeks 1–3)</title>
-<style>
-  @page { size: A4; margin: 20mm; }
-  body {
-    font-family: "Segoe UI", Arial, sans-serif;
-    font-size: 11pt;
-    line-height: 1.5;
-    color: #1a1a1a;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 10px;
-  }
-  h1 { font-size: 20pt; color: #0b3d6b; border-bottom: 3px solid #0b3d6b; padding-bottom: 8px; }
-  h2 { font-size: 15pt; color: #0b3d6b; margin-top: 28px; border-left: 5px solid #0b3d6b; padding-left: 10px; }
-  h3 { font-size: 12.5pt; color: #14406e; margin-top: 20px; }
-  pre {
-    background: #f4f6f8;
-    border: 1px solid #d0d7de;
-    border-radius: 6px;
-    padding: 10px 14px;
-    font-family: "Consolas", "Courier New", monospace;
-    font-size: 9.5pt;
-    line-height: 1.45;
-    overflow-x: auto;
-    white-space: pre-wrap;
-  }
-  code { font-family: "Consolas", "Courier New", monospace; font-size: 9.5pt; background: #eef1f4; padding: 1px 4px; border-radius: 3px; }
-  table { border-collapse: collapse; width: 100%; margin: 10px 0; }
-  td, th { border: 1px solid #c8d0d8; padding: 6px 10px; text-align: left; font-size: 10.5pt; }
-  th { background: #e8eef4; }
-  .cover {
-    text-align: center;
-    padding: 40px 20px;
-    border: 2px solid #0b3d6b;
-    border-radius: 10px;
-    margin-bottom: 30px;
-  }
-  .cover h1 { border: none; font-size: 22pt; margin-bottom: 6px; }
-  .cover p { margin: 4px 0; font-size: 12pt; }
-  .page-break { page-break-before: always; }
-  ul { margin-top: 4px; }
-  .note { background: #fff8e1; border-left: 4px solid #e6a700; padding: 8px 14px; font-size: 10.5pt; }
-  footer { margin-top: 40px; text-align: center; font-size: 9pt; color: #666; border-top: 1px solid #ccc; padding-top: 10px; }
-</style>
-</head>
-<body>
 
 <!-- COVER PAGE -->
 <div class="cover">
